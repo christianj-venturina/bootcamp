@@ -1,0 +1,70 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : DESKTOP-MCI0KR9
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek PCIe GbE Family Controller
+   Physical Address. . . . . . . . . : B0-0C-D1-CE-90-70
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter
+   Physical Address. . . . . . . . . : 0E-96-E6-CE-E1-1F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Microsoft Wi-Fi Direct Virtual Adapter #2
+   Physical Address. . . . . . . . . : 8E-96-E6-CE-E1-1F
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Realtek RTL8821CE 802.11ac PCIe Adapter
+   Physical Address. . . . . . . . . : 0C-96-E6-CE-E1-1F
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2001:4450:4724:b400::1(Preferred) 
+   Lease Obtained. . . . . . . . . . : Thursday, November 9, 2023 8:44:43 AM
+   Lease Expires . . . . . . . . . . : Sunday, November 12, 2023 8:44:44 AM
+   IPv6 Address. . . . . . . . . . . : 2001:4450:4724:b400:f7db:d0f8:5318:634f(Preferred) 
+   Temporary IPv6 Address. . . . . . : 2001:4450:4724:b400:8ac:eed1:46bb:ea(Preferred) 
+   Link-local IPv6 Address . . . . . : fe80::f782:4052:dda9:101c%6(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 192.168.1.148(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Lease Obtained. . . . . . . . . . : Wednesday, November 8, 2023 1:00:00 PM
+   Lease Expires . . . . . . . . . . : Friday, November 10, 2023 8:44:39 AM
+   Default Gateway . . . . . . . . . : fe80::1%6
+                                       192.168.1.1
+   DHCP Server . . . . . . . . . . . : 192.168.1.1
+   DHCPv6 IAID . . . . . . . . . . . : 151820006
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-27-A3-AD-41-B0-0C-D1-CE-90-70
+   DNS Servers . . . . . . . . . . . : fe80::1%6
+                                       192.168.1.1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Bluetooth Device (Personal Area Network)
+   Physical Address. . . . . . . . . : 0C-96-E6-CE-E1-20
+   DHCP Enabled. . . . . . . . . . . : Yes
+   Autoconfiguration Enabled . . . . : Yes

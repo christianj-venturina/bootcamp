@@ -1,0 +1,7 @@
+body {background-color:rgb(255,255,143); font-family:Arial, Helvetica, sans-serif; margin:0px; padding:0px}
+#about-me{color:green}
+.resume-heading{color:red}
+#recent-work, #previous-work {color:orange}
+#previous-work {font-size:150%}
+div > p {font-family:'Times New Roman', Times, serif}
+#favorite_cuisines > li {font-family:'Courier New', Courier, monospace}

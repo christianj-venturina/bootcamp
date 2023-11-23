@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ISCP Employee Registration Form</title>
+</head>
+<body>
+    <h1>ISCP Employee Registration Form</h1>
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/c9/Seal_of_the_International_State_College_of_the_Philippines.png" width="200px" alt="ISCP logo"/><br />
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/aCUhfPAyDHY?si=UMjTBcsNs3nrNY_d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <h2>Basic Information</h2>
+    <form>
+        <label for="first_name">First name</label>
+        <input type="text" placeholder="ex. Juan Miguel" id="first_name"/><br />
+        <label for="last_name">Last name</label>
+        <input type="text" placeholder="ex. Dela Cruz" id="last_name"/><br />
+        <label for="place_of_birth">Place of birth</label>
+        <input type="text" placeholder="ex. Manila" id="place_of_birth"/><br />
+        <label for="birthdate">Birthdate</label>
+        <input type="date" id="birthdate"/><br />
+        <label for="civil_status">Civil status</label>
+        <select name="civil_status" id="civil_status">
+            <option disabled selected>Select one...</option>
+            <option value="single">Single</option>
+            <option value="married">Married</option>
+            <option value="widowed">Widowed</option>
+            <option value="separated">Separated</option>
+        </select><br />
+        <label for="gender">Gender</label>
+        <select name="gender" id="gender">
+            <option disabled>Select one...</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="other">Other</option>
+        </select><br />
+        <label for="mother's_maiden_name">Mother's maiden name</label>
+        <input type="text" id="mother's_maiden_name"/><br />
+        <label for="father's_name">Father's name</label>
+        <input type="text" id="father's name"/><br />
+    </form>
+    <h2>Contact Information</h2>
+    <form>
+        <label for="email_address">Email address</label>
+        <input type="email" placeholder="ex. jdelacruz@gmail.com" id="email_address"/><br />
+        <label for="contact_number">Contact number (mobile)</label>
+        <input type="text" placeholder="ex. +639876543210" id="contact_number"/><br />
+        <label for="tel_number">Contact number (telephone)</label>
+        <input type="text" placeholder="ex. 8-888-8888" id="tel_number"/><br />
+    </form>
+    <h2>Address</h2>
+    <form>
+        <label for="street_number">Street number</label>
+        <input type="text" id="street_number"/><br />
+        <label for="street_name">Street name</label>
+        <input type="text" id="street_name"/><br />
+        <label for="barangay">Barangay</label>
+        <input type="text" placeholder="ex. Barangay Poblacion" id="barangay"/><br />
+        <label for="city_town">City/Town</label>
+        <input type="text" placeholder="ex. Muntinlupa" id="city_town"/><br />
+        <label for="province">Province</label>
+        <input type="text" placeholder="ex. Metro Manila" id="province"/><br />
+        <label for="full_address">Full address</label>
+        <input type="text" id="full_address"/><br />
+    </form>
+    <h2>Government Information</h2>
+    <form>
+        <label for="sss_id">SSS ID</label>
+        <input type="text" id="sss_id"/><br/>
+        <label for="pagibig_id">Pag-Ibig ID</label>
+        <input type="text" id="pagibig_id"/><br />
+        <label for="philhealth_id">PhilHealth ID</label>
+        <input type="text" id="philhealth_id"/>
+    </form>
+</body>
+</html>

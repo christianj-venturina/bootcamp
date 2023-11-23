@@ -1,0 +1,132 @@
+body {
+    font-family: Tahoma;
+    margin: 0px;
+    background-color: white;
+    background-image: url(https://thumbs.dreamstime.com/b/grainy-white-paper-surface-as-texture-background-close-up-macro-200678301.jpg);
+    background-attachment: fixed;
+  }
+  
+  #nav-bar {
+    background-color: rgb(70, 130, 180);
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 10px 50px 10px 50px;
+  }
+  
+  #banner {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  #ministries-section {
+    text-align: center;
+  }
+  
+  #ministries-text {
+    color: rgb(70, 130, 180);
+    font-size: 250%;
+  }
+  
+  #free-section {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+  }
+  
+  #free-image {
+    width: 350px;
+    margin-right: 20px;
+  }
+  
+  #free-title {
+    font-size: 200%;
+    color: rgb(70, 130, 180);
+  }
+  
+  #free-action {
+    margin-bottom: 50px;
+  }
+  
+  #free-link {
+    color: blue;
+    font-size: 200%;
+  }
+
+  #free-link:visited {
+    color: rgb(255, 102, 0);
+  }
+
+  #free-link:hover {
+    color:magenta;
+  }
+
+  #free-link:active {
+    color:lime;
+  }
+  
+  #other-section {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    margin-top: 20px;
+  }
+  
+  #other-center {
+    text-align: center;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  
+  #other-title {
+    font-size: 100%;
+    margin: 0px;
+  }
+  
+  footer {
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(160, 160, 160);
+  }
+  
+  .footer-link {
+    color: rgb(160, 160, 160);
+  }
+  
+  #footer-bottom {
+    font-size: 75%;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    color: white;
+  }
+
+  li {
+    float: left;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    width: 250px;
+  }
+
+  table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    border-style: dotted;
+  }
+
+  tr:nth-child(odd) {
+    background-color: white;
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgb(204, 199, 199);
+  }
+
+  tr:hover{
+    background-color: rgb(226, 141, 43);
+  }
